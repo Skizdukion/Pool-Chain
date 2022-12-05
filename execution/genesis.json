@@ -1,7 +1,7 @@
 {
 	"config": {
-		"ChainName": "l1_chain",
-		"chainId": 32382,
+		"ChainName": "PoolChain",
+		"chainId": 61497,
 		"consensus": "clique",
 		"homesteadBlock": 0,
 		"daoForkSupport": true,

@@ -14,7 +14,7 @@ services:
     image: "ethereum/client-go:latest"
     command:
       - --http
-      - --http.api=eth
+      - --http.api=eth,net,web3
       - --http.addr=0.0.0.0
       - --authrpc.vhosts=*
       - --authrpc.addr=0.0.0.0
