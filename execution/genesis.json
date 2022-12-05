@@ -21,7 +21,7 @@
 		"grayGlacierBlock": 0,
 		"clique": {
 			"period": 1,
-			"epoch": 30000
+			"epoch": 6000
 		},
 		"terminalTotalDifficulty": 50
 	},
