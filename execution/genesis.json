@@ -20,8 +20,8 @@
 		"arrowGlacierBlock": 0,
 		"grayGlacierBlock": 0,
 		"clique": {
-			"period": 1,
-			"epoch": 6000
+			"period": 5,
+			"epoch": 30000
 		},
 		"terminalTotalDifficulty": 50
 	},
